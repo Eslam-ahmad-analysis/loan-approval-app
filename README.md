@@ -17,3 +17,6 @@ This is a Machine Learning web app built with Streamlit.
 
 ```bash
 pip install -r requirements.txt
+
+
+!streamlit run loan_app1.py
