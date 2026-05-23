@@ -7,6 +7,12 @@ https://loan-approval-app-nev3m4v2jiknir2eo3znnq.streamlit.app/
 
 ---
 
+## 🎓 Acknowledgements
+
+This project was developed as part of the learning journey with **Epsilon AI training program**.
+
+- 📚 Epsilon AI: https://github.com/EpsilonAI
+
 ## 🚀 Features
 
 - 📊 Predict loan approval in real-time
