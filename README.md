@@ -20,3 +20,6 @@ pip install -r requirements.txt
 
 
 !streamlit run loan_app1.py
+
+
+## https://loan-approval-app-nev3m4v2jiknir2eo3znnq.streamlit.app/
